@@ -1,0 +1,12 @@
+item {
+  id: 1
+  name: 'General Waste'
+}
+item {
+  id: 2
+  name: 'Recyclable Waste'
+}
+item {
+  id: 3
+  name: 'Mixed Recycling'
+}
